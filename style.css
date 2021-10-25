@@ -1,0 +1,49 @@
+h1{
+    color: white;
+    font-family:sans-serif;
+    font-display: block;
+}
+body{
+    margin: 0%;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/456/710/559/minimalism-wood-panels-texture-wallpaper-preview.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    text-align: center;
+    padding: 3%;
+}
+#screen{
+    text-align: right;
+}
+
+.calculatorbody{
+    display: inline-block;
+    border: 4px solid white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+table{
+    margin: auto;    
+}
+input{
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 4px;
+    margin-bottom: 9px;
+    border-radius: 5px;
+    font-size: 34px;
+    font-family: sans-serif;
+    font-weight: 400px;
+}
+button{
+    text-align: center;
+    border-radius: 5px;
+    font-size: 35px;
+    background-color: cyan;
+    width: 104px;
+    height: 66px;
+    padding: 10%;
+}
+/* https://oodlesthemes.com/wp-content/uploads/2017/10/OO0122318-Abstract-wooden-background-design-Vector.jpg */
